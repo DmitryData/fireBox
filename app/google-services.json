@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "845468361535",
+    "firebase_url": "https://cloudtasks-df5bf.firebaseio.com",
+    "project_id": "cloudtasks-df5bf",
+    "storage_bucket": "cloudtasks-df5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845468361535:android:e9ecb23497255b3a",
+        "android_client_info": {
+          "package_name": "e.lenovo.cloudtasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845468361535-nccha6b5p7bmk2n9ab78h0kkaef7r02e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.lenovo.cloudtasks",
+            "certificate_hash": "c9dc17d23d4a531b9343009aa9396f659b8e2afb"
+          }
+        },
+        {
+          "client_id": "845468361535-avfq70lk2682038su7g2ntr25j8lcph2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChY0ruDfhXxwCHNa9tHKcxWYRAhrS7Lc8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845468361535-avfq70lk2682038su7g2ntr25j8lcph2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
